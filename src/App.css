@@ -1,0 +1,15 @@
+/* src/App.css */
+
+/* Reset some default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}.app-container {
+  min-height: 100vh; /* Ensure the app container takes up full viewport height */
+  background-color: #f8f8f8; /* Set a light background color */
+}
